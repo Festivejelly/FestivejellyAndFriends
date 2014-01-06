@@ -1,0 +1,9 @@
+F:\Programming\C-Sharp\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.exe.config
+F:\Programming\C-Sharp\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.csprojResolveAssemblyReference.cache
+F:\Programming\C-Sharp\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.ADayAtTheRacesForm.resources
+F:\Programming\C-Sharp\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.Properties.Resources.resources
+F:\Programming\C-Sharp\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.csproj.GenerateResource.Cache
+F:\Programming\C-Sharp\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.exe
+F:\Programming\C-Sharp\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.pdb
+F:\Programming\C-Sharp\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.exe
+F:\Programming\C-Sharp\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.pdb
