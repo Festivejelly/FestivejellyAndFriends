@@ -20,7 +20,8 @@ namespace ADayAtTheRaces
 
         public bool Run()
         {
-            int distance = Randomizer.Next(1,4);
+            int distance = Randomizer.Next(1,5);
+            Console.WriteLine("distance: " + distance);
             Point p = MyPictureBox.Location;
             p.X += distance;
             MyPictureBox.Location = p;

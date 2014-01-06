@@ -18,7 +18,9 @@ namespace ADayAtTheRaces
 
         public void UpdateLabels()
         {
-            MyLabel.Text = Name + " has " + Cash + " bucks";
+            MyLabel.Text = Name + " bet " + MyBet.Amount + " on dog #" + MyBet.Dog;
+            MyRadioButton.Text = Name + " has " + Cash + " bucks";
+
         }
 
         public void ClearBet()
@@ -26,11 +28,11 @@ namespace ADayAtTheRaces
             MyBet = null;
         }
 
-        public bool PlaceBet(int Amount, int Dog)
+        public bool PlaceBet(int myAmount, int myDog)
         {
-            if (Cash <= Amount)
+            if (Cash >= myAmount)
             {
-                MyBet = new Bet { Amount = Amount, Dog = Dog, Bettor = this };
+                MyBet = new Bet { Amount = myAmount, Dog = myDog, Bettor = this };
                 return true;
             }
             else

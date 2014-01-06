@@ -32,7 +32,7 @@ namespace ADayAtTheRaces
         {
             if (Winner == Dog)
             {
-                return Amount;
+                return Amount * 2;
             }
             else
             {
